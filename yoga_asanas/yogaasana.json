@@ -1,6 +1,6 @@
-[
+{
 	"YOGA":
-    	{
+    	[{
          "Y_id": 1,
          "Y_name": "Katichakrasana"
 	},
@@ -98,6 +98,6 @@
 	{
          "Y_id": 20,
          "Y_name": "Sasakasana"
-	}
+	}]
           
-]
+}
