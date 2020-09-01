@@ -3,101 +3,121 @@
     	{
          "Y_id": 1,
          "Y_name": "Katichakrasana"
+	 "Y_img": "https://github.com/MoazamHussain/fitnessapp/blob/master/yoga_asanas/yogaimgs/y1.PNG"
 	},
 
 	{
          "Y_id": 2,
          "Y_name": "Bhujangasana"
+	 "Y_img": "https://github.com/MoazamHussain/fitnessapp/blob/master/yoga_asanas/yogaimgs/y2.PNG"
 	},
          
 	{
          "Y_id": 3,
          "Y_name": "Kurmasana"
+	 "Y_img": "https://github.com/MoazamHussain/fitnessapp/blob/master/yoga_asanas/yogaimgs/y3.PNG"
 	},
 
 	{
          "Y_id": 4,
          "Y_name": "Setu Bandha Sarvanga"
+	 "Y_img": "https://github.com/MoazamHussain/fitnessapp/blob/master/yoga_asanas/yogaimgs/y4.PNG"
 	},
 
 	{
          "Y_id": 5,
          "Y_name": "Matsyasana"
+	 "Y_img": "https://github.com/MoazamHussain/fitnessapp/blob/master/yoga_asanas/yogaimgs/y5.PNG"
 	},
 
 	{
          "Y_id": 6,
          "Y_name": "Adho Mukha Svanasana"
+	 "Y_img": "https://github.com/MoazamHussain/fitnessapp/blob/master/yoga_asanas/yogaimgs/y6.PNG"
 	},
 
 	{
          "Y_id": 7,
          "Y_name": "Pada Rajakapotasana"
+	 "Y_img": "https://github.com/MoazamHussain/fitnessapp/blob/master/yoga_asanas/yogaimgs/y7.PNG"
 	},
 
 	{
          "Y_id": 8,
          "Y_name": "Balasana"
+	 "Y_img": "https://github.com/MoazamHussain/fitnessapp/blob/master/yoga_asanas/yogaimgs/y8.PNG"
 	},
 
 	{
          "Y_id": 9,
          "Y_name": "Gomukhasana"
+	 "Y_img": "https://github.com/MoazamHussain/fitnessapp/blob/master/yoga_asanas/yogaimgs/y9.PNG"
 	},
 
 	{
          "Y_id": 10,
          "Y_name": "Tadasana"
+	 "Y_img": "https://github.com/MoazamHussain/fitnessapp/blob/master/yoga_asanas/yogaimgs/y10.PNG"
 	},
 
 	{
          "Y_id": 11,
          "Y_name": "Pavanamuktasana"
+	 "Y_img": "https://github.com/MoazamHussain/fitnessapp/blob/master/yoga_asanas/yogaimgs/y11.PNG"
 	},
 
 	{
          "Y_id": 12,
          "Y_name": "Ustrasana"
+	 "Y_img": "https://github.com/MoazamHussain/fitnessapp/blob/master/yoga_asanas/yogaimgs/y12.PNG"
 	},
 
 	{
          "Y_id": 13,
          "Y_name": "Vayu Nishkasana"
+	 "Y_img": "https://github.com/MoazamHussain/fitnessapp/blob/master/yoga_asanas/yogaimgs/y13.PNG"
 	},
 
 	{
          "Y_id": 14,
          "Y_name": "Trikonasana"
+	 "Y_img": "https://github.com/MoazamHussain/fitnessapp/blob/master/yoga_asanas/yogaimgs/y14.PNG"
 	},
 
 	{
          "Y_id": 15,
          "Y_name": "Virabhadrasana 1"
+	 "Y_img": "https://github.com/MoazamHussain/fitnessapp/blob/master/yoga_asanas/yogaimgs/y15.PNG"
 	},
 
 	{
          "Y_id": 16,
          "Y_name": "Virabhadrasana 2"
+	 "Y_img": "https://github.com/MoazamHussain/fitnessapp/blob/master/yoga_asanas/yogaimgs/y16.PNG"
 	},
 
 	{
          "Y_id": 17,
          "Y_name": "Sarvangasana"
+	 "Y_img": "https://github.com/MoazamHussain/fitnessapp/blob/master/yoga_asanas/yogaimgs/y17.PNG"
 	},
 
 	{
          "Y_id": 18,
          "Y_name": "Sukhasana"
+	 "Y_img": "https://github.com/MoazamHussain/fitnessapp/blob/master/yoga_asanas/yogaimgs/y18.PNG"
 	},
 
 	{
          "Y_id": 19,
          "Y_name": "Utthita Hasta Padang"
+	 "Y_img": "https://github.com/MoazamHussain/fitnessapp/blob/master/yoga_asanas/yogaimgs/y19.PNG"
 	},
 
 	{
          "Y_id": 20,
          "Y_name": "Sasakasana"
+	 "Y_img": "https://github.com/MoazamHussain/fitnessapp/blob/master/yoga_asanas/yogaimgs/y20.PNG"
 	}
           
 	]
