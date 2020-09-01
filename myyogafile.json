@@ -1,0 +1,104 @@
+{
+	"YOGA":	[
+    	{
+         "Y_id": 1,
+         "Y_name": "Katichakrasana"
+	},
+
+	{
+         "Y_id": 2,
+         "Y_name": "Bhujangasana"
+	},
+         
+	{
+         "Y_id": 3,
+         "Y_name": "Kurmasana"
+	},
+
+	{
+         "Y_id": 4,
+         "Y_name": "Setu Bandha Sarvanga"
+	},
+
+	{
+         "Y_id": 5,
+         "Y_name": "Matsyasana"
+	},
+
+	{
+         "Y_id": 6,
+         "Y_name": "Adho Mukha Svanasana"
+	},
+
+	{
+         "Y_id": 7,
+         "Y_name": "Pada Rajakapotasana"
+	},
+
+	{
+         "Y_id": 8,
+         "Y_name": "Balasana"
+	},
+
+	{
+         "Y_id": 9,
+         "Y_name": "Gomukhasana"
+	},
+
+	{
+         "Y_id": 10,
+         "Y_name": "Tadasana"
+	},
+
+	{
+         "Y_id": 11,
+         "Y_name": "Pavanamuktasana"
+	},
+
+	{
+         "Y_id": 12,
+         "Y_name": "Ustrasana"
+	},
+
+	{
+         "Y_id": 13,
+         "Y_name": "Vayu Nishkasana"
+	},
+
+	{
+         "Y_id": 14,
+         "Y_name": "Trikonasana"
+	},
+
+	{
+         "Y_id": 15,
+         "Y_name": "Virabhadrasana 1"
+	},
+
+	{
+         "Y_id": 16,
+         "Y_name": "Virabhadrasana 2"
+	},
+
+	{
+         "Y_id": 17,
+         "Y_name": "Sarvangasana"
+	},
+
+	{
+         "Y_id": 18,
+         "Y_name": "Sukhasana"
+	},
+
+	{
+         "Y_id": 19,
+         "Y_name": "Utthita Hasta Padang"
+	},
+
+	{
+         "Y_id": 20,
+         "Y_name": "Sasakasana"
+	}
+          
+	]
+}
