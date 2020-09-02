@@ -1,0 +1,63 @@
+{
+	"PILATES":	[
+    	{
+         "P_id": 1,
+         "P_name": "Back Extension"
+	},
+
+	{
+         "P_id": 2,
+         "P_name": "Back Control"
+	},
+         
+	{
+         "P_id": 3,
+         "P_name": "Bicycle"
+	},
+
+	{
+         "P_id": 4,
+         "P_name": "Boomerang"
+	},
+
+	{
+         "P_id": 5,
+         "P_name": "Breathing"
+	},
+
+	{
+         "P_id": 6,
+         "P_name": "Cervical Nod"
+	},
+
+	{
+         "P_id": 7,
+         "P_name": "Backstroke"
+	},
+
+	{
+         "P_id": 8,
+         "P_name": "Chest Expansion"
+	},
+
+	{
+         "P_id": 9,
+         "P_name": "Coordination"
+	},
+
+	{
+         "P_id": 10,
+         "P_name": "Down Stretch"
+	},
+
+	{
+         "P_id": 11,
+         "P_name": "Footwork"
+	},
+
+	{
+         "P_id": 12,
+         "P_name": "Hundred"
+	}  
+	]
+}
