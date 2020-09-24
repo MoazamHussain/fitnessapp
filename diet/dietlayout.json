@@ -3,21 +3,29 @@
     	{
          "D_id": 1,
          "D_name": "Fat loss"
+	 "D_img1": "https://user-images.githubusercontent.com/70376703/94103882-41eccc80-fe53-11ea-91fc-462ed9eb581b.png"
+	 "D_img2": "https://user-images.githubusercontent.com/70376703/94103882-41eccc80-fe53-11ea-91fc-462ed9eb581b.png"
 	},
 
 	{
          "D_id": 2,
          "D_name": "Weight loss"
+	 "D_img1": "https://github.com/MoazamHussain/fitnessapp/blob/master/diet/weightloss.jpeg?raw=true"
+	 "D_img2": "https://github.com/MoazamHussain/fitnessapp/blob/master/diet/weightloss.jpeg?raw=true"
 	},
          
 	{
          "D_id": 3,
          "D_name": "Lean"
+	 "D_img1": "https://github.com/MoazamHussain/fitnessapp/blob/master/diet/lean.jpg?raw=true"
+	 "D_img2": "https://github.com/MoazamHussain/fitnessapp/blob/master/diet/lean1.jpeg?raw=true"
 	},
 
 	{
          "D_id": 4,
          "D_name": "Bulky"
+	 "D_img1": "https://github.com/MoazamHussain/fitnessapp/blob/master/diet/bulk.jpg?raw=true"
+	 "D_img2": "https://github.com/MoazamHussain/fitnessapp/blob/master/diet/bulk1.jpg?raw=true"
 	}
 	]
 }
