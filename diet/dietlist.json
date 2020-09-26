@@ -5,7 +5,7 @@
          "D_name": "Fat loss",
 	 "D_img1": "https://github.com/MoazamHussain/fitnessapp/blob/master/diet/fatloss.png?raw=true",
 	 "D_img2": "https://github.com/MoazamHussain/fitnessapp/blob/master/diet/fatloss.png?raw=true",
-	 "D_benefits" : "Decreased risk of diabetes\nLowered blood pressure\nImproved cholesterol levels\nDecreased risk of heart disease\nDecreased risk of certain cancers"
+	 "D_benefits" : "Benefits : \nDecreased risk of diabetes\nLowered blood pressure\nImproved cholesterol levels\nDecreased risk of heart disease\nDecreased risk of certain cancers"
 	},
 
 	{
@@ -13,7 +13,7 @@
          "D_name": "Weight loss",
 	 "D_img1": "https://github.com/MoazamHussain/fitnessapp/blob/master/diet/weightloss.jpeg?raw=true",
 	 "D_img2": "https://github.com/MoazamHussain/fitnessapp/blob/master/diet/weightloss.jpeg?raw=true",
-	 "D_benefits" : "Manage Your Risk for Heart Disease\nBreathe Easier\nControl Your Diabetes\nRelief from Low Back Pain\nDegenerative Disk Disease\nDegenerative Joint Disease"
+	 "D_benefits" : "Benefits : \nManage Your Risk for Heart Disease\nBreathe Easier\nControl Your Diabetes\nRelief from Low Back Pain\nDegenerative Disk Disease\nDegenerative Joint Disease"
 	},
          
 	{
@@ -21,7 +21,7 @@
          "D_name": "Lean",
 	 "D_img1": "https://github.com/MoazamHussain/fitnessapp/blob/master/diet/lean.jpg?raw=true",
 	 "D_img2": "https://github.com/MoazamHussain/fitnessapp/blob/master/diet/leanfemale.jpeg?raw=true",
-	 "D_benefits" : "Recovery from Illness or Disease\nBetter Mental Health\nCombats Obesity\nKeeps your Bones Strong and Healthy\nReduces your Risk of Falls and Fractures"
+	 "D_benefits" : "Benefits : \nRecovery from Illness or Disease\nBetter Mental Health\nCombats Obesity\nKeeps your Bones Strong and Healthy\nReduces your Risk of Falls and Fractures"
 	},
 
 	{
@@ -29,7 +29,7 @@
          "D_name": "Bulky",
 	 "D_img1": "https://github.com/MoazamHussain/fitnessapp/blob/master/diet/bulk.jpg?raw=true",
 	 "D_img2": "https://github.com/MoazamHussain/fitnessapp/blob/master/diet/bulk1.jpg?raw=true",
-	 "D_benefits" : "Fat loss\nFeel good factor\nQuick results"
+	 "D_benefits" : "Benefits : \nFat loss\nFeel good factor\nQuick results"
 	}
 	]
 }
