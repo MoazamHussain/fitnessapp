@@ -13,7 +13,7 @@
          "D_name": "Weight loss",
 	 "D_img1": "https://github.com/MoazamHussain/fitnessapp/blob/master/diet/weightloss.jpeg?raw=true",
 	 "D_img2": "https://github.com/MoazamHussain/fitnessapp/blob/master/diet/weightloss.jpeg?raw=true",
-	 "D_benefits" : ""
+	 "D_benefits" : "Manage Your Risk for Heart Disease\nBreathe Easier\nControl Your Diabetes\nRelief from Low Back Pain\nDegenerative Disk Disease\nDegenerative Joint Disease"
 	},
          
 	{
@@ -21,7 +21,7 @@
          "D_name": "Lean",
 	 "D_img1": "https://github.com/MoazamHussain/fitnessapp/blob/master/diet/lean.jpg?raw=true",
 	 "D_img2": "https://github.com/MoazamHussain/fitnessapp/blob/master/diet/leanfemale.jpeg?raw=true",
-	 "D_benefits" : ""
+	 "D_benefits" : "Recovery from Illness or Disease\nBetter Mental Health\nCombats Obesity\nKeeps your Bones Strong and Healthy\nReduces your Risk of Falls and Fractures"
 	},
 
 	{
@@ -29,7 +29,7 @@
          "D_name": "Bulky",
 	 "D_img1": "https://github.com/MoazamHussain/fitnessapp/blob/master/diet/bulk.jpg?raw=true",
 	 "D_img2": "https://github.com/MoazamHussain/fitnessapp/blob/master/diet/bulk1.jpg?raw=true",
-	 "D_benefits" : ""
+	 "D_benefits" : "Fat loss\nFeel good factor\nQuick results"
 	}
 	]
 }
