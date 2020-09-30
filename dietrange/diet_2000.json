@@ -1,0 +1,53 @@
+{
+	"DIET-RANGE":	[
+    	{
+         "D_name": "Diet 1",
+         "D_breakfast": "2 eggs, 1 cup (20 grams) of spinach, 1/4 cup (24 grams) of mushrooms, 1/4 cup (23 grams) of broccoli, 1 cup (205 grams) of sautéed sweet potatoes, 1 tablespoon (15 ml) of olive oil",
+	 "D_snack1" : "1 medium apple, 2 tablespoons (32 grams) of peanut butter",
+	 "D_lunch" : "1 whole-wheat pita, 5 ounces (140 grams) of canned tuna, chopped red onion and celery, 1/4 avocado, 1 tablespoon (9 grams) of crumbled feta cheese",
+	 "D_snack2" : "2 ounces (56 grams) of cheddar cheese, 1 cup (92 grams) of grapes",
+	 "D_dinner" : "5 ounces (140 grams) of baked salmon, 2 tablespoons (30 ml) of olive oil, 1/2 cup (82 grams) of cooked wild rice, 1 cup (180 grams) of roasted asparagus, 1 cup (100 grams) of roasted eggplant"
+	},
+
+	{
+         "D_name": "Diet 2",
+         "D_breakfast": "2 slices of whole-grain toast, 2 tablespoons (32 grams) of almond butter, 1 sliced banana, cinnamon to sprinkle on top",
+	 "D_snack1" : "3/4 cup (180 ml) of unsweetened, non-dairy milk, 1 cup (20 grams) of spinach, 1 scoop (42 grams) of plant-based protein powder, 1 cup (123 grams) of frozen blueberries, 1 tablespoon (14 grams) of hemp seeds",
+	 "D_lunch" : "1/2 avocado, 5 ounces (140 grams) of canned tuna, 1/2 cup (75 grams) of cherry tomatoes, 2 cups (100–140 grams) of mixed greens",
+	 "D_snack2" : "fresh carrot and celery sticks, 2 tablespoons (30 grams) of hummus, 1/2 whole-wheat pita bread",
+	 "D_dinner" : "5 ounces (140 grams) of chicken, 2 cups (176 grams) of broccoli, 1/2 cup (82 grams) of cooked brown rice, fresh garlic and ginger, 1 tablespoon (15 ml) of soy sauce"
+	
+	},
+         
+	{
+          "D_name": "Diet 3",
+         "D_breakfast": "7 ounces (200 grams) of plain Greek yogurt, 1/2 cup (74 grams) of fresh blueberries, 1/2 cup (76 grams) of sliced strawberries, 1/4 cup (30 grams) of granola",
+	 "D_snack1" : "1 banana, 1 1/2 tablespoons (24 grams) of almond butter",
+	 "D_lunch" : "3/4 cup (132 grams) of cooked rice noodles, 5 ounces (141 grams) of tofu, 1/2 cup (125 grams) of peas, 1 tablespoon (16 grams) of creamy peanut butter, 2 teaspoons (10 grams) of tamari or soy sauce, 1/2 teaspoon (2 grams) of Sriracha, 2 teaspoons (14 grams) of honey, juice of 1/2 lime",
+	 "D_snack2" : "Look for bars containing approximately 200–250 calories with less than 12 grams of sugar and at least 5 grams of fiber",
+	 "D_dinner" : "3 corn tortillas, 6 ounces (170 grams) of grilled cod, 1/2 avocado, 2 tablespoons (34 grams) of pico de gallo"
+	
+	},
+
+	{
+          "D_name": "Diet 4",
+         "D_breakfast": "1/2 avocado, 2 slices of whole-wheat toast, 1 tablespoon (15 ml) of olive oil, 1 egg",
+	 "D_snack1" : "7 ounces (200 grams) of plain Greek yogurt, 3/4 cup (125 grams) of sliced strawberries",
+	 "D_lunch" : "1/2 cup (93 grams) of cooked quinoa, 5 ounces (142 grams) of grilled chicken, 1 tablespoon (15 ml) of olive oil, 1 cup (180 grams) of mixed, non-starchy vegetables",
+	 "D_snack2" : "2 squares (21 grams) of dark chocolate, 15–20 almonds",
+	 "D_dinner" : "1/2 cup (121 grams) of canned, crushed tomatoes, 1/2 cup (130 grams) of kidney beans, 1/2 cup (103 grams) of butternut squash, 1/2 cup (75 grams) of cooked sweet corn, 1/4 cup (28 grams) of diced white onions, 1/4 of a jalapeño pepper"
+	
+	},
+
+	{
+          "D_name": "Diet 5",
+         "D_breakfast": "1/2 cups (80 grams) of steel-cut oats, 1 tablespoon (14 grams) of hemp seeds, 1 tablespoon (12 grams) of flax seeds, 2 tablespoons (20 grams) of dried cherries",
+	 "D_snack1" : "1/2 bell pepper, cut into strips, 1 cup of carrot sticks, 4 tablespoons (60 grams) of guacamole",
+	 "D_lunch" : "1 whole-wheat tortilla, 1/2 cup (60 grams) of grilled red peppers, 5 slices (42 grams) of grilled zucchini, 3 ounces (84 grams) of fresh mozzarella",
+	 "D_snack2" : "5 ounces (170 grams) of chia pudding, 1/2 of a sliced banana",
+	 "D_dinner" : "2 tablespoons (30 grams) of pesto, 1/2 cup (42 grams) of whole-wheat or brown-rice penne, 6 ounces (170 grams) of shrimp, 1/2 cup (80 grams) of peas, 1 tablespoon (5 grams) of grated Parmesan cheese"
+	
+	}
+          
+	]
+}

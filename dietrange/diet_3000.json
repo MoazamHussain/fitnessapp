@@ -1,0 +1,53 @@
+{
+	"DIET-RANGE":	[
+    	{
+         "D_name": "Diet 1",
+         "D_breakfast": "1 cup (80 grams) of oats with 1 cup (240 ml) of dairy or plant-based milk, 1 sliced banana, and 2 tablespoons (33 grams) of peanut butter",
+	 "D_snack1" : "trail mix made with 1 cup (80 grams) of dry cereal, 1/4 cup (30 grams) of granola, 1/4 cup (34 grams) of dried fruit, and 20 nuts",
+	 "D_lunch" : "1 cup (100 grams) of spaghetti with 3/4 cups (183 grams) of tomato sauce and 4 ounces (112 grams) of cooked ground beef, as well as 1 medium breadstick with 1 tablespoon (14 grams) of butter",
+	 "D_snack2" : "1 cup (226 grams) of cottage cheese and 1/2 cup (70 grams) of blueberries",
+	 "D_dinner" : " 4 ounces (110 grams) of salmon, 1 cup (100 grams) of brown rice, and 5 asparagus spears"
+	},
+
+	{
+         "D_name": "Diet 2",
+         "D_breakfast": "smoothie made with 2 cups (480 ml) of dairy or plant-based milk, 1 cup (227 grams) of yogurt, 1 cup (140 grams) of blueberries, and 2 tablespoons (33 grams) of almond butter",
+	 "D_snack1" : "1 granola bar, 1 piece of fruit, and 2 pieces of string cheese",
+	 "D_lunch" : "12-inch sub sandwich with meat, cheese, and veggies with 3 ounces (85 grams) of baby carrots, 2 tablespoons (28 grams) of hummus, and apple slices on the side",
+	 "D_snack2" : "1 scoop of whey protein powder mixed in 1 cup (240 ml) of dairy or plant-based milk",
+	 "D_dinner" : "4-ounce (113-gram) sirloin steak, 1 medium-sized (173-gram) baked potato with 1 tablespoon (14 grams) of butter, and 1 cup (85 grams) of broccoli"
+	
+	},
+         
+	{
+          "D_name": "Diet 3",
+         "D_breakfast": "3 whole-wheat waffles with 2 tablespoons (33 grams) of peanut butter, 1 orange, and 2 cups (480 ml) of dairy or plant-based milk",
+	 "D_snack1" : "1 nut-based granola bar and 1 ounce (28 grams) of almonds",
+	 "D_lunch" : "6-ounce (170-gram) 90%-lean burger on a whole-wheat bun with 1 tomato slice and lettuce leaf, as well as 1 1/2 cup (86 grams) of homemade sweet potato fries cooked in olive oil",
+	 "D_snack2" : "1 cup (227 grams) of Greek yogurt and 1 cup (140 grams) of strawberries",
+	 "D_dinner" : "4-ounce (112-gram) chicken breast, 1/2 cup (84 grams) of quinoa, and 1 1/3 cups (85 grams) of sugar snap peas"
+	
+	},
+
+	{
+          "D_name": "Diet 4",
+         "D_breakfast": "3-egg omelet with sliced onions, red and green bell peppers, and 1/4 cup (28 grams) of shredded cheese with 2 cups (480 ml) of dairy or plant-based milk to drink",
+	 "D_snack1" : "2 tablespoons (33 grams) of peanut butter and 1 banana on 1 slice of whole-wheat bread",
+	 "D_lunch" : "8 ounces (226 grams) of tilapia fillets, 1/4 cup (32 grams) of lentils, and a salad topped with 1/4 cup (30 grams) of walnuts",
+	 "D_snack2" : "2 sliced, hard-boiled eggs atop a mixed green salad",
+	 "D_dinner" : "turkey chili made with a 4-ounce (114-gram) turkey breast, chopped onions, garlic, celery, and sweet peppers, 1/2 cup (123 grams) of canned, diced tomatoes, and 1/2 cup (120 grams) of cannellini beans, topped with 1/4 cup (28 grams) of shredded cheese. Add oregano, bay leaves, chili powder, and cumin as desired for taste"
+	
+	},
+
+	{
+          "D_name": "Diet 5",
+         "D_breakfast": "3 whole eggs, 1 apple, and 1 cup (80 grams) of oatmeal made with 1 cup (240 ml) of dairy or plant-based milk",
+	 "D_snack1" : "1 cup (226 grams) of plain yogurt with 1/4 cup (30 grams) of granola and 1/2 cup (70 grams) of raspberries",
+	 "D_lunch" : "6-ounce (168-gram) chicken breast, 1 medium-sized (151-gram) sweet potato, 3/4 cup (85 grams) of green beans, and 1 ounce (28 grams) of nuts",
+	 "D_snack2" : "1/2 cup (130 grams) of chickpeas atop greens",
+	 "D_dinner" : "burrito bowl with 6 ounces (170 grams) of chopped sirloin steak, 1/2 cup (130 grams) of black beans, 1/2 cup (90 grams) of brown rice, 1 cup (35 grams) of shredded lettuce and spinach, and 2 tablespoons (16 grams) of salsa"
+	
+	}
+          
+	]
+}

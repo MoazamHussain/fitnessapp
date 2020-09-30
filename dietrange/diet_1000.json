@@ -1,0 +1,33 @@
+{
+	"DIET-RANGE":	[
+    	{
+         "D_name": "Diet 1",
+         "D_breakfast": "a cup of oatmeal with half of an apple and a teaspoon of cinnamon, and a cup of unsweetened coffee",
+	 "D_snack1" : "15 almonds(optional)",
+	 "D_lunch" : "one scrambled egg and a slice of low-fat cheddar cheese on whole-wheat toast",
+	 "D_snack2" : "15 almonds",
+	 "D_dinner" : "half of a cooked chicken breast, a big portion of vegetable salad (lettuce, cherry tomatoes, bell pepper, red onion, lemon juice), and a cup of unsweetened herbal tea"
+	},
+
+	{
+         "D_name": "Diet 2",
+         "D_breakfast": "a cup of low-fat or non-fat yogurt with half of a cup of berries, and a cup of unsweetened green tea",
+	 "D_snack1" : "a cup of sliced fruits(optional)",
+	 "D_lunch" : "one wholemeal roll willed with half of a cup of tuna, and a cup of vegetable salad (lettuce, red sweet pepper, spring onions)",
+	 "D_snack2" : "a cup of sliced fruits",
+	 "D_dinner" : "a half of a baked medium-sized fish, half of a cup of roasted sweet potatoes, a cup of steamed broccoli and cauliflower, and a cup of unsweetened herbal tea"
+	
+	},
+         
+	{
+          "D_name": "Diet 3",
+         "D_breakfast": "2 boiled egg whites, a cup of vegetable mix (cucumber, lettuce, cherry tomatoes), and a glass of freshly squeezed orange juice",
+	 "D_snack1" : "a cup of yogurt with nuts and berries(optional)",
+	 "D_lunch" : "two cups of vegetable soup and a slice of whole-wheat bread",
+	 "D_snack2" : "a cup of yogurt with nuts and berries",
+	 "D_dinner" : "a cup of chicken and rice stir-fry, half of a cup of peas, and a cup of unsweetened herbal tea"
+	
+	}
+          
+	]
+}
