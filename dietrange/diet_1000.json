@@ -2,30 +2,30 @@
 	"DIET-RANGE":	[
     	{
          "D_name": "Diet 1",
-         "D_breakfast": "Breakfast : \na cup of oatmeal with half of an apple and a teaspoon of cinnamon\na cup of unsweetened coffee",
-	 "D_snack1" : "Snack : \n15 almonds(optional)",
-	 "D_lunch" : "Lunch : \none scrambled egg and a slice of low-fat cheddar cheese on whole-wheat toast",
-	 "D_snack2" : "Snack : \n15 almonds",
-	 "D_dinner" : "Dinner : \nhalf of a cooked chicken breast\na big portion of vegetable salad (lettuce, cherry tomatoes, bell pepper, red onion, lemon juice)\na cup of unsweetened herbal tea"
+         "D_breakfast": "Breakfast : a cup of oatmeal with half of an apple and a teaspoon of cinnamon and a cup of unsweetened coffee",
+	 "D_snack1" : "Snack : 15 almonds(optional)",
+	 "D_lunch" : "Lunch : one scrambled egg and a slice of low-fat cheddar cheese on whole-wheat toast",
+	 "D_snack2" : "Snack : 15 almonds",
+	 "D_dinner" : "Dinner : half of a cooked chicken breast, a big portion of vegetable salad (lettuce, cherry tomatoes, bell pepper, red onion, lemon juice) and a cup of unsweetened herbal tea"
 	},
 
 	{
          "D_name": "Diet 2",
-         "D_breakfast": "Breakfast : \na cup of low-fat or non-fat yogurt with half of a cup of berries\na cup of unsweetened green tea",
-	 "D_snack1" : "Snack : \na cup of sliced fruits(optional)",
-	 "D_lunch" : "Lunch : \none wholemeal roll willed with half of a cup of tuna\na cup of vegetable salad (lettuce, red sweet pepper, spring onions)",
-	 "D_snack2" : "Snack : \na cup of sliced fruits",
-	 "D_dinner" : "Dinner : \na half of a baked medium-sized fish\nhalf of a cup of roasted sweet potatoes\na cup of steamed broccoli and cauliflower\na cup of unsweetened herbal tea"
+         "D_breakfast": "Breakfast : a cup of low-fat or non-fat yogurt with half of a cup of berries and a cup of unsweetened green tea",
+	 "D_snack1" : "Snack : a cup of sliced fruits(optional)",
+	 "D_lunch" : "Lunch : one wholemeal roll willed with half of a cup of tuna and a cup of vegetable salad (lettuce, red sweet pepper, spring onions)",
+	 "D_snack2" : "Snack : a cup of sliced fruits",
+	 "D_dinner" : "Dinner : a half of a baked medium-sized fish, half of a cup of roasted sweet potatoes, a cup of steamed broccoli and cauliflower and a cup of unsweetened herbal tea"
 	
 	},
          
 	{
           "D_name": "Diet 3",
-         "D_breakfast": "Breakfast : \n2 boiled egg whites\na cup of vegetable mix (cucumber, lettuce, cherry tomatoes)\na glass of freshly squeezed orange juice",
-	 "D_snack1" : "Snack : \na cup of yogurt with nuts and berries(optional)",
-	 "D_lunch" : "Lunch : \ntwo cups of vegetable soup and a slice of whole-wheat bread",
-	 "D_snack2" : "Snack : \na cup of yogurt with nuts and berries",
-	 "D_dinner" : "Dinner  : \na cup of chicken and rice stir-fry\nhalf of a cup of peas\na cup of unsweetened herbal tea"
+         "D_breakfast": "Breakfast : 2 boiled egg whites, a cup of vegetable mix (cucumber, lettuce, cherry tomatoes) and a glass of freshly squeezed orange juice",
+	 "D_snack1" : "Snack : a cup of yogurt with nuts and berries(optional)",
+	 "D_lunch" : "Lunch : two cups of vegetable soup and a slice of whole-wheat bread",
+	 "D_snack2" : "Snack : a cup of yogurt with nuts and berries",
+	 "D_dinner" : "Dinner  : a cup of chicken and rice stir-fry, half of a cup of peas and a cup of unsweetened herbal tea"
 	
 	}
           
