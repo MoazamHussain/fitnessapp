@@ -41,11 +41,11 @@
 
 	{
           "D_name": "Diet 5",
-         "D_breakfast": "1/2 cups (80 grams) of steel-cut oats, 1 tablespoon (14 grams) of hemp seeds, 1 tablespoon (12 grams) of flax seeds, 2 tablespoons (20 grams) of dried cherries",
-	 "D_snack1" : "1/2 bell pepper, cut into strips, 1 cup of carrot sticks, 4 tablespoons (60 grams) of guacamole",
-	 "D_lunch" : "1 whole-wheat tortilla, 1/2 cup (60 grams) of grilled red peppers, 5 slices (42 grams) of grilled zucchini, 3 ounces (84 grams) of fresh mozzarella",
-	 "D_snack2" : "5 ounces (170 grams) of chia pudding, 1/2 of a sliced banana",
-	 "D_dinner" : "2 tablespoons (30 grams) of pesto, 1/2 cup (42 grams) of whole-wheat or brown-rice penne, 6 ounces (170 grams) of shrimp, 1/2 cup (80 grams) of peas, 1 tablespoon (5 grams) of grated Parmesan cheese"
+         "D_breakfast": "Breakfast : 1/2 cups (80 grams) of steel-cut oats, 1 tablespoon (14 grams) of hemp seeds, 1 tablespoon (12 grams) of flax seeds, 2 tablespoons (20 grams) of dried cherries",
+	 "D_snack1" : "Snack : 1/2 bell pepper, cut into strips, 1 cup of carrot sticks, 4 tablespoons (60 grams) of guacamole",
+	 "D_lunch" : "Lunch : 1 whole-wheat tortilla, 1/2 cup (60 grams) of grilled red peppers, 5 slices (42 grams) of grilled zucchini, 3 ounces (84 grams) of fresh mozzarella",
+	 "D_snack2" : "Snack : 5 ounces (170 grams) of chia pudding, 1/2 of a sliced banana",
+	 "D_dinner" : "Dinner : 2 tablespoons (30 grams) of pesto, 1/2 cup (42 grams) of whole-wheat or brown-rice penne, 6 ounces (170 grams) of shrimp, 1/2 cup (80 grams) of peas, 1 tablespoon (5 grams) of grated Parmesan cheese"
 	
 	}
           
